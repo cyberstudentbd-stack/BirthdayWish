@@ -14,7 +14,7 @@ declare -a banner_lines=(
 "██╔══██╗    ████╔═████║ ██║ ╚═══██╗██╔══██║"
 "██████╦╝    ╚██╔╝ ╚██╔╝ ██║██████╔╝██║  ██║"
 "╚═════╝      ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝"
-"                                 By RUR999"
+"                                 By Team CSB"
 )
 
 banner() {
@@ -418,7 +418,7 @@ cat <<EOF > ${fname}.html
         <img src="$image_url" alt="Birthday Person" class="profile-img">
         <h1>HAPPY</h1>
         <h1>BIRTHDAY</h1>
-        <h2 class="emojis">🎉🎉🎂🎉🎉</h2>
+        <h2 class="emojis">✨🎉🎂🍫🍬🥀</h2>
         <h2>$birthday_name</h2>
     </div>
     <audio id="background-music" src="$music_url" loop></audio>
